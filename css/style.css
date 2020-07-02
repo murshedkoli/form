@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(0, 0, 0, 0.37);
+}
+
+.row   {
+    height: 100vh;
+}
+
+.btn{
+    padding: 20px;
+}
+form{
+    border-radius: 10px;
+    background-color: white;
+    padding: 30px;
+}
+
+form p{
+    font-size: 12px;
+}
+button{
+    margin-bottom: 20px;
+}
